@@ -13,8 +13,6 @@
 * Do same for rest
 
 
-
-
 ### Merge Sort - O(n log n)
 * Recursively call itself on left and right halves
 * Use final Merge operation to sort into place
